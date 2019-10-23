@@ -4,7 +4,7 @@ You can configure refresh dealy time
 
 
 Install Consul::
-Go to https://www.consul.io/downloads.html and for windows 64 version select  windows 64 and down load it.
+Go to https://www.consul.io/downloads.html and for windows 64 version select  windows 64 and download it.
 unzip the downloaded software to a folder
 go to the folder using cmd and cd command 
 and run the below commands for consul agenet
