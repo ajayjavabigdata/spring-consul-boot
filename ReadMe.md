@@ -1,6 +1,6 @@
 This is a Spring boot application having consul for reading and storing the configuration.
-It gives you feature to refresh properties with new value without restaring application.
-You can configure refresh dealy time 
+It gives you feature to refresh properties with new value without restarting application.
+You can configure refresh delay time 
 
 
 Install Consul::
